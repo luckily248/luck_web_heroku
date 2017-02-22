@@ -1,0 +1,14 @@
+{
+  "name": "go-getting-started",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/luckily248/luck_web_heroku",
+  "website": "http://github.com/luckily248/luck_web_heroku",
+  "repository": "http://github.com/luckily248/luck_web_heroku"
+}
