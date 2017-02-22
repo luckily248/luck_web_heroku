@@ -1,1 +1,1 @@
-web: luckweb
+web: server
