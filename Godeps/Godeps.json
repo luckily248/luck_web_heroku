@@ -27,11 +27,11 @@
 		},
 		{
 			"ImportPath": "github.com/luckily248/luck_web_server",
-			"Rev": "c7b0b1605a535b9fd2313f0c73ad5a5f8e8335ca"
+			"Rev": "1e56398ab2e0a8846a6e37e3fdd370a8b4437537"
 		},
 		{
 			"ImportPath": "github.com/luckily248/luck_web_server/handler",
-			"Rev": "c7b0b1605a535b9fd2313f0c73ad5a5f8e8335ca"
+			"Rev": "1e56398ab2e0a8846a6e37e3fdd370a8b4437537"
 		},
 		{
 			"ImportPath": "github.com/manucorporat/sse",
