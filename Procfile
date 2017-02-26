@@ -1,1 +1,1 @@
-web: server
+web: luck_web_heroku
